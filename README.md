@@ -8,7 +8,7 @@ TI.2.A.2
 
 **1. [Instruksi Praktikum](#instruksi-praktikum)**  
 **2. [Langkah-langkah Praktikum](#langkah-langkah-praktikum)**
-**3.[Membuat Laman Artikel, About, dan Contact](#Membuat-Laman-Artikel,-About,-dan-Contact)**
+**3. [Membuat Laman Artikel, About, dan Contact](#Membuat-Laman-Artikel,-About,-dan-Contact)**
 
 ## **Instruksi Praktikum**
 
