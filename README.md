@@ -1,5 +1,3 @@
-<img width="1080" alt="ss9" src="https://github.com/Febriyaninurhida123/Lab6Web/assets/90132092/b95bf4af-7239-4e9f-a3db-e80db790141b"><img width="1079" alt="ss1" src="https://github.com/Febriyaninurhida123/Lab6Web/assets/90132092/f7a7087f-2c56-4c91-abf0-7126bfff729c"><img width="1079" alt="ss1" src="https://github.com/Febriyaninurhida123/Lab6Web/assets/90132092/12b79a54-2cb8-4b8c-abb8-ca42fbfb1655"># Lab6Web
-
 ```
 Febriyani Nurhida
 312210222
@@ -644,3 +642,4 @@ berikut kode yang sudah disiapkan dengan bootstrap :
 hasilnya akan tampil seperti berikut :
 <img width="1080" alt="ss13" src="https://github.com/Febriyaninurhida123/Lab6Web/assets/90132092/13a8e5df-c337-498e-b5f5-6924862a652f">
 
+### sekian dan terima kasih :)
