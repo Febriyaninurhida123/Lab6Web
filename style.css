@@ -1,0 +1,39 @@
+<!-- Css styles -->
+<style>
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+
+	body {
+		font-family: "Open Sans", sans-serif;
+		font-size: 100%;
+	}
+
+	#container {
+		height: 1300px;
+	}
+
+	nav a.active,
+	nav a:hover {
+		background-color: #68a4e8;
+	}
+
+	.widget-box li:hover a {
+		background-color: #eee;
+	}
+
+	.row:after,
+	.row:before,
+	.entry:after,
+	.entry:before {
+		content: "";
+		display: table;
+	}
+
+	.row:after,
+	.entry:after {
+		clear: both;
+	}
+</style>
